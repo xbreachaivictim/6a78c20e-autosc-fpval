@@ -1,2 +1,2 @@
-# FP validator protected-branch canary
-Write-Output "OWNER_TRUSTED_CONTENT_6a78c20e"
+# FP validator case-variant modification attempt
+Write-Output "ATTACKER_INJECTED_MARKER_6a78c20e"
